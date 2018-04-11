@@ -44,15 +44,14 @@ So I created this project and covers all the above settings, let you can focus o
 
 * `react` as the view.
 * `react-router` v4 as the router.
-* `react-loadable` provides component based code splitting
+* `react-loadable` provides component based code splitting.
 * `react-helmet` provides control of the page head from within components.
 * `redux` as the state management container.
 * `redux-saga` deal with asynchronous action flow.
-* `react-router-redux` sync your router with redux state
+* `react-router-redux` sync your router with redux state.
 * `reselect` to avoid frequent re-render that improve performance.
-* `immutable.js` provides many persistent Immutable data structures.
 * `styled-components` helps you organize CSS in react project.
-* `font-awesome` as the Icons
+* `font-awesome` v5 as the Icons.
 * `babel` v7 for es6+ support and load babel-polyfill on-demand.
 * `isomorphic-fetch` for http request.
 
